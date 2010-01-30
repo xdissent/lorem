@@ -3,6 +3,8 @@ Cross Site Request Forgery Middleware.
 
 This module provides a middleware that implements protection
 against request forgeries from other sites.
+
+I'm pretending this comment is related to a pivotal story
 """
 
 import itertools
